@@ -1,0 +1,9 @@
+openai
+langchain
+streamlit
+langchain
+langchain-community
+beautifulsoup4
+streamlit_chat
+PyPDF2
+qdrant-client
